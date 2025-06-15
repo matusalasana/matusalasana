@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sana Matusala</h1>
-<h3 align="center">Frontend Developer | Developer/Designer</h3>
+# <h1 align="center">Sana Matusala</h1>
 
 <p align="center">
   <img src="https://github.com/matusalasana/matusalasana/blob/main/Hello%20there!%F0%9F%91%8B_20250615_161316_0000.gif" alt="Sana Matusala" width="400"  />
@@ -38,6 +37,8 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
 
 <p align="left">
   <a href="mailto:matusalasana@gmail.com"><img src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
+</p>
+<p align="left">
   <a href="https://t.me/@Sana1514" target="_blank"><img src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
   <br/>
 </p>
