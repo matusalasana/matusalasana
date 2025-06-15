@@ -21,6 +21,6 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 
 
 # <div>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/contact-book-svgrepo-com.svg"/>Contact me#
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/contact-book-svgrepo-com.svg"/><h1>Contact me</h1>
 </div>
 <a href="matusalasana@gmail.com"><img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg"/></a>
