@@ -18,6 +18,6 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/linux-svgrepo-com.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/react-svgrepo-com.svg"/>
 
-<h1><img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/contact-book-svgrepo-com.svg"/>Contact me</h1>
+###<h1><img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/contact-book-svgrepo-com.svg"/>Contact me</h1>
 
-<a href="matusalasana@gmail.com"><img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg"/></a>
+[<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg"/>](matusalasana@gmail.com)
