@@ -11,7 +11,7 @@
 
 I'm **Sana** — a civil engineering student turned passionate web developer with a laser focus on building clean, responsive, and high-performance web applications.  
 
-With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively expanding my skills into the **full-stack** world using **Node.js, Express, and MongoDB**. I specialize in crafting intuitive user interfaces and bringing them to life with dynamic functionality and seamless backend integration.
+With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively expanding my skills into the **full-stack**. I specialize in crafting intuitive user interfaces and bringing them to life with dynamic functionality and seamless backend integration.
 
 ---
 
