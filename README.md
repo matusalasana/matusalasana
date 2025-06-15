@@ -12,9 +12,9 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 <img align="left" alt="Javascript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/typescript-svgrepo-com.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/terminal-bash-svgrepo-com.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/github-142-svgrepo-com.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/python-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/css-3-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/html-5-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/javascript-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/linux-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/react-svgrepo-com.svg"/>
