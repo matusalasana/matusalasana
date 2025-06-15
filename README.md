@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Developer/Designer</h3>
 
 <p align="center">
-  <img src="https://github.com/matusalasana/matusalasana/blob/main/cropped_circle_image.png" alt="Sana Matusala" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/matusalasana/matusalasana/blob/main/Hello%20there!%F0%9F%91%8B_20250615_161316_0000.gif" alt="Sana Matusala" width="400"  />
 </p>
 
 ---
@@ -44,12 +44,9 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
 
 ---
 
-### <p align="center">📊 GitHub Stats</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matusalasana&show_icons=true&theme=radical" max-width="90%" width="48%"/>
-
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusalasana&layout=compact&theme=radical" max-width="90%" width="48%"/>
 </p>
