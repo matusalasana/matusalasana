@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Developer/Designer</h3>
 
 <p align="center">
-  <img src="https://github.com/matusalasana/personal-stuffs/blob/main/cropped_circle_image.png" alt="Sana Matusala" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/matusalasana/matusalasana/blob/main/cropped_circle_image.png" alt="Sana Matusala" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
