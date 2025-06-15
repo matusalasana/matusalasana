@@ -1,7 +1,8 @@
-# <h1 align="center">Sana Matusala</h1>
+
+---
 
 <p align="center">
-  <img src="https://github.com/matusalasana/matusalasana/blob/main/Hello%20there!%F0%9F%91%8B_20250615_161316_0000.gif" alt="Sana Matusala" width="400"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sana+Matusala;A+Frontend+Developer;Full+Stack+Dev+In+Progress;Always+learning+new+things" alt="Typing animation" />
 </p>
 
 ---
