@@ -1,8 +1,8 @@
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Sana+Matusala;A+Frontend+Developer;Full+Stack+Dev+In+Progress;Always+learning+new+things" alt="Typing animation" />
+  <img src="https://github.com/matusalasana/matusalasana/blob/main/text%20(1).svg" alt="my name">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=A+Frontend+Developer;Full+Stack+Dev+In+Progress;Always+learning+new+things" alt="Typing animation" />
 </p>
 
 ---
