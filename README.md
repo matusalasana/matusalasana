@@ -21,3 +21,6 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 ###<h1><img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/contact-book-svgrepo-com.svg"/>Contact me</h1>
 
 [<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg"/>](matusalasana@gmail.com)
+[<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg"/>](t.me/@sana1514)
+[<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg"/>](t.me/@sana1514)
+
