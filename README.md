@@ -47,9 +47,9 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
 ### <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matusalasana&show_icons=true&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matusalasana&show_icons=true&theme=radical" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusalasana&layout=compact&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusalasana&layout=compact&theme=radical" width="90%"/>
 </p>
