@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sana Matusala
 
 **`Frontend Developer (Developer/Designer)`**
 
@@ -18,11 +18,4 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-
-
-
-
-
-
 #
