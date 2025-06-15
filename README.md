@@ -37,20 +37,19 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:matusalasana@gmail.com"><img src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg" alt="Git" width="40" height="40"/></a><br/>
+  <a href="mailto:matusalasana@gmail.com"><img src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://t.me/@Sana1514" target="_blank"><img src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
+  <br/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matusalasana&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusalasana&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matusalasana&show_icons=true&theme=radical" width="60%"/>
 </p>
 
-
-
-  [<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg"/>](mailto:matusalasana@gmail.com)
-  [<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg"/>](t.me/@sana1514)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusalasana&layout=compact&theme=radical" width="60%"/>
+</p>
