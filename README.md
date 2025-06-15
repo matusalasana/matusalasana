@@ -8,10 +8,10 @@ With a solid foundation in HTML, CSS, JavaScript, and React, I'm actively expand
 
 ### 🤖 Languages and Tools
 
-<img align="left" alt="Javascript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Javascript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original"/>
+<img align="left" alt="Javascript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/git-svgrepo-com.svg"/>
+<img align="left" alt="Javascript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/typescript-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/terminal-bash-svgrepo-com.svg"/>
+<img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://github.com/matusalasana/matusalasana/blob/main/github-142-svgrepo-com.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Typescript" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
