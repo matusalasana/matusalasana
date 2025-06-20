@@ -37,7 +37,7 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
   <a href="mailto:matusalasana@gmail.com"><img src="https://github.com/matusalasana/matusalasana/blob/main/email-8-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
 </p>
 <p align="left">
-  <a href="https://t.me/@Sana1514" target="_blank"><img src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://t.me/+251945807386" target="_blank"><img src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
   <br/>
 </p>
 
