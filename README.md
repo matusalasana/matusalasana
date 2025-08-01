@@ -2,16 +2,22 @@
   <img src="https://github.com/matusalasana/matusalasana/blob/main/text%20(1).svg" height="50px" alt="my name">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=A+Frontend+Developer;Full+Stack+Dev+In+Progress;Always+learning+new+things" height="80px" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Civil+Engineering+Student;A+Frontend+Developer;Always+learning+new+things;Based+in+Ethiopia;Focused+on+...;clean+design;and+interactive+UI" height="80px" alt="Typing animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-I'm **Sana** — a civil engineering student turned passionate web developer with a laser focus on building clean, responsive, and high-performance web applications.  
-
-With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively expanding my skills into the **full-stack**. I specialize in crafting intuitive user interfaces and bringing them to life with dynamic functionality and seamless backend integration.
+- 🏗️ Engineering background with a passion for web development  
+- 💡 Currently focused on **Front-End Development**
+- 🌐 I build responsive, user-friendly websites using:
+  - **HTML**
+  - **CSS**
+  - **JavaScript**
+  - **React**
+  - **Chakra UI**
+- 🎯 Goal: Create beautiful, fast, and accessible user interfaces
 
 ---
 
@@ -31,6 +37,14 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
 
 ---
 
+## 📚 Currently Learning
+
+- ⚛️ Advanced React concepts
+- 🎨 UI/UX design principles
+- 🧪 Front-end testing (Jest, React Testing Library)
+
+---
+
 ### 📫 Contact Me
 
 <p align="left">
@@ -40,6 +54,10 @@ With a solid foundation in **HTML, CSS, JavaScript, and React**, I'm actively ex
   <a href="https://t.me/+251970317386" target="_blank"><img src="https://github.com/matusalasana/matusalasana/blob/main/telegram-svgrepo-com.svg" alt="Git" width="40" height="40"/></a>
   <br/>
 </p>
+
+---
+
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
