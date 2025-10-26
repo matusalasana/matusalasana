@@ -17,6 +17,7 @@
   - **JavaScript**
   - **React**
   - **Chakra UI**
+  - **Tailwind CSS**
 - 🎯 Goal: Create beautiful, fast, and accessible user interfaces
 
 ---
