@@ -2,20 +2,20 @@
   <img src="https://github.com/matusalasana/matusalasana/blob/main/text%20(1).svg" height="50px" alt="my name">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Civil+Engineering+Student;A+Frontend+Developer;Always+learning+new+things;Based+in+Ethiopia;Focused+on+...;clean+design;and+interactive+UI" height="80px" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Civil+Engineering+Student;A+Frontend+Developer;Aspiring+Full-Stack+Developer;Always+learning+new+things;Lives+in+Ethiopia;Focused+on+...;clean+design...;and+interactive+UI" height="80px" alt="Typing animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🏗️ Engineering background with a passion for web development  
-- 💡 Currently focused on **Front-End Development**
+- </> I have a big passion for web development  
+- 💡 I Currently focused on **Front-End Development**
 - 🌐 I build responsive, user-friendly websites using:
   - **HTML**
   - **CSS**
   - **JavaScript**
-  - **React**
+  - **ReactJs**
   - **Chakra UI**
   - **Tailwind CSS**
 - 🎯 Goal: Create beautiful, fast, and accessible user interfaces
@@ -40,9 +40,8 @@
 
 ## 📚 Currently Learning
 
-- ⚛️ Advanced React concepts
-- 🎨 UI/UX design principles
-- 🧪 Front-end testing (Jest, React Testing Library)
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- UI/UX for best user experience and interface
 
 ---
 
@@ -58,7 +57,7 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> "The best error message is the one that never shows up." – Thomas Fuchs
 
 ---
 
