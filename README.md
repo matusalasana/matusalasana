@@ -62,21 +62,21 @@ Hey there! I'm a frontend developer with a passion for crafting beautiful, respo
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">Description of your awesome project built with React and TypeScript</p>
+      <h3 align="center">Aura market</h3>
+      <p align="center">Aura market is an e-commerce website built with React and TypeScript</p>
       <p align="center">
         <a href="#">🔗 Live Demo</a>
         <span> · </span>
-        <a href="#">📁 Repository</a>
+        <a href="#">📁 Repository - coming soon</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">Description of another project with Chakra UI and Tailwind</p>
+      <h3 align="center">Birres</h3>
+      <p align="center">Birres is a budjet tracking website built with reactJs with typescript and Tailwind</p>
       <p align="center">
         <a href="#">🔗 Live Demo</a>
         <span> · </span>
-        <a href="#">📁 Repository</a>
+        <a href="#">📁 Repository - coming soon</a>
       </p>
     </td>
   </tr>
