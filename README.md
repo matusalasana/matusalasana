@@ -107,7 +107,7 @@ Hey there! I'm a frontend developer with a passion for crafting beautiful, respo
   
   ### 💭 Random Dev Quote
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  "The best error message is the one that never shows up." — Thomas Fuchs
   
   ---
   
